@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/WHATISIT/issues"
   },
-  "homepage": "https://github.com/alestor123/WHATISIT#readme"
+  "homepage": "https://github.com/alestor123/WHATISIT#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
